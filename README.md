@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Winston Riggs. A student at Hunter College majoring in Computer Science.
 - 👀 I’m interested in data analysis and machine learning. 
-- 🌱 I’m currently learning C++, data structures and algorithms, and the linux terminal.
+- 🌱 I’m currently learning C++, data structures, algorithms, and the linux terminal.
 - 📫 You can reach me @wriggs12@gmail.com
 
 <!---
