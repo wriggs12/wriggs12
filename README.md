@@ -1,6 +1,6 @@
 Winston :sunglasses: is a developer in NYC with interests in system development, concurrent programming, and fintech.
 
-Favorite Languge Currently: C
+Favorite Languge: C
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wriggs12&style=flat-square)
 
